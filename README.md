@@ -32,4 +32,4 @@ For {masked_input}.fa, please see [repeat annotation](https://github.com/keen-la
 
 `bash run_mergeOutput.sh`
 
-Find cleanup_braker_gtf.py [here](https://github.com/keen-laras/RepeatAnnotation/blob/main/cleanup_braker_gtf.py)
+Find cleanup_braker_gtf.py [here](https://github.com/keen-laras/GenomeAnnotation/blob/main/cleanup_braker_gtf.py)
