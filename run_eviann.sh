@@ -5,3 +5,6 @@ export PATH=/opt/software/minimap2-2.20/:/opt/software/hisat2/:$PATH
 cat *protein* > proteins.faa
 cat *rna* > transcripts.faa
 /opt/software/EviAnn-2.0.2/bin/eviann.sh -t 64 -g /path/to/{input}.fa -e /path/to/transcripts.faa -p /path/to/proteins.fa -l
+
+# clean output IDs for BRAKER input
+sed's/ .*//; s/:/_/g; s/|/-/g' /path/to/proteins.faa > cleaned.proteins.faa
