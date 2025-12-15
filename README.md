@@ -6,7 +6,7 @@ This is a guide to homology-based annotate your assembly using annotations from 
 The tutorial is built for [DCS Cloud](https://cloud.stomics.tech/) users
 
 - Github repository: [EviAnn](https://github.com/alekseyzimin/EviAnn_release), [BRAKER](https://github.com/Gaius-Augustus/BRAKER)
-- Contact email for [this](https://github.com/keen-laras/RepeatAnnotation/tree/main) guide: kinanti.seraphina@gmail.com
+- Contact email for [this](https://github.com/keen-laras/GenomeAnnotation/tree/main) guide: kinanti.seraphina@gmail.com
 
 ## Tutorial
 ### 1. Image
